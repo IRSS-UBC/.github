@@ -66,7 +66,7 @@ This site also includes other useful information for lab members such as welcome
 
 5) Click "Transfer" in the "Danger Zone" section
 
-![Danger Zone](https://tenor.com/view/dangerous-gif-6113181)
+<div class="tenor-gif-embed" data-postid="6113181" data-share-method="host" data-aspect-ratio="1.91" data-width="100%"><a href="https://tenor.com/view/dangerous-gif-6113181">Dangerous GIF</a>from <a href="https://tenor.com/search/dangerous-gifs">Dangerous GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 6) Under new owner, tick the option that says "Select one of my organizations" and set IRSS-UBC target. Provide a new name for the repo, or keep the old name. Confirm the transfer.
 
