@@ -7,7 +7,7 @@ This site also includes other useful information for lab members such as welcome
 ## Suggested Contribitons From Lab Members
 
 1. Feel free to add your own github repos for your research
-2. Add short tutorials in the tutorials repo
+2. Add short tutorial scripts in the tutorials repo
 3. If you are not writing a large amount of code for your research, share other things such as conceptual aspects of your projects
 4. Use this site to develop lab culture: make/fork a repo for anything you think is interesting!
 
