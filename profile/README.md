@@ -64,7 +64,9 @@ This site also includes other useful information for lab members such as welcome
 
 4) Under "Change repository visibility", ensure the repo is public (this wont work with private repos)
 
-5) Click "Transfer" in the "Danger Zone" sectioon
+5) Click "Transfer" in the "Danger Zone" section
+
+![Danger Zone](https://tenor.com/view/dangerous-gif-6113181)
 
 6) Under new owner, tick the option that says "Select one of my organizations" and set IRSS-UBC target. Provide a new name for the repo, or keep the old name. Confirm the transfer.
 
