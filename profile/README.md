@@ -60,13 +60,13 @@ This site also includes other useful information for lab members such as welcome
 
 2)  Go to the repo on your personal Github website and then Settings
 
-3) At the bottom of the page, in the "Danger Zone" section
+3) At the bottom of the page, in the "Danger Zone" section 
+<img src="https://media.giphy.com/media/3EuAsjZDUJefK/giphy.gif" width="120" height="80" />
+
 
 4) Under "Change repository visibility", ensure the repo is public (this wont work with private repos)
 
 5) Click "Transfer" in the "Danger Zone" section
-
-<div class="tenor-gif-embed" data-postid="6113181" data-share-method="host" data-aspect-ratio="1.91" data-width="100%"><a href="https://tenor.com/view/dangerous-gif-6113181">Dangerous GIF</a>from <a href="https://tenor.com/search/dangerous-gifs">Dangerous GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 6) Under new owner, tick the option that says "Select one of my organizations" and set IRSS-UBC target. Provide a new name for the repo, or keep the old name. Confirm the transfer.
 
