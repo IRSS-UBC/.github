@@ -7,11 +7,13 @@ This is a place where IRSS members can share code, tutorials, and any informatio
 This site also includes other useful information for lab members such as welcomed documentation for new students, a list of publications, tutorials, code, and other resources.
 
 ## Contents
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Potential Usage](#potential-usage)
+- [Suggested Contribitons From Lab Members](#suggested-contribitons-from-lab-members)
 - [Other lab sites](#other-lab-sites)
+- [Detailed List of Content](#detailed-list-of-content)
 
-# Usage
+
+# Potential Usage
 
 1. Learn how other lab members are approaching their research through code
 2. Access useful tips/tricks from lab members 
@@ -22,7 +24,7 @@ This site also includes other useful information for lab members such as welcome
 
 <br />
 
-# Contributing
+# Suggested Contribitons From Lab Members
 
 1. Feel free to add your own github repos for your research
 2. Add short tutorials in the tutorials repo
@@ -110,6 +112,8 @@ If you have limited git/github experience but stil want to contribute, send me y
 
 ### Try and incorporate some [github best practices](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/best-practices-for-projects) in your repos.
 
+### 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 <br />
 
 # Other lab sites
@@ -122,4 +126,15 @@ If you have limited git/github experience but stil want to contribute, send me y
 
 <br />
 
-### 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+# Detailed List of Content
+
+| Content | Author |
+| --------------- | --------------- |
+| Cuda Performance Testing for Raster Analysis | Lukas |
+| HELIOS++ Workshop | Lukas |
+| Robocopy File Backup Tutorial | Sarah |
+| Point Cloud Deep Learning for Forest Data Tutorial | Harry |
+| NTEMS Clipping R Code | Bud |
+| Windows Subsystem for Linux Setup Tutorial | Tommaso |
+| LAStools in R Tutorial | Tristan Goodbody |
+| Custom Raster Tiling Tutorial | Chris Mulverhill |
