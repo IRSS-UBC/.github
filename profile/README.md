@@ -1,23 +1,17 @@
 # IRSS Shared Github
 
+## Overview
+
 This is a place where IRSS members can share code, tutorials, and any information about their research. 
 
 This site also includes other useful information for lab members such as welcomed documentation for new students, a list of publications, tutorials, code, and other resources.
 
-<br />
+## Contents
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Other lab sites](#other-lab-sites)
 
-## Suggested Contribitons From Lab Members 🏢 
-
-1. Feel free to add your own github repos for your research
-2. Add short tutorials in the tutorials repo
-3. If you are not writing a large amount of code for your research, share other things such as conceptual aspects of your projects
-4. Use this site to develop lab culture: make/fork a repo for anything you think is interesting!
-
-     ...
-
-<br />
-
-## Potential Usage 👩‍💻
+# Usage
 
 1. Learn how other lab members are approaching their research through code
 2. Access useful tips/tricks from lab members 
@@ -28,13 +22,14 @@ This site also includes other useful information for lab members such as welcome
 
 <br />
 
-## Other lab sites 💻
+# Contributing
 
-[Amy's Blog](https://amywotherspoon.wixsite.com/amyw)
+1. Feel free to add your own github repos for your research
+2. Add short tutorials in the tutorials repo
+3. If you are not writing a large amount of code for your research, share other things such as conceptual aspects of your projects
+4. Use this site to develop lab culture: make/fork a repo for anything you think is interesting!
 
-[Lab Twitter](https://twitter.com/IRSS_UBC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-
-[UBC IRSS Site](https://irsslab.forestry.ubc.ca/)
+     ...
 
 <br />
 
@@ -114,5 +109,17 @@ For more detailed information about transfering repos see this [site](https://do
 If you have limited git/github experience but stil want to contribute, send me your script(s) and I will add them to the Tutorials repo. However, this option is not as desirable as A and B because it is not as easy to update your files.
 
 ### Try and incorporate some [github best practices](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/best-practices-for-projects) in your repos.
+
+<br />
+
+# Other lab sites
+
+[Amy's Blog](https://amywotherspoon.wixsite.com/amyw)
+
+[Lab Twitter](https://twitter.com/IRSS_UBC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+[UBC IRSS Site](https://irsslab.forestry.ubc.ca/)
+
+<br />
 
 ### 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
