@@ -6,11 +6,27 @@ This is a place where IRSS members can share code, tutorials, and any informatio
 
 This site also includes other useful information for lab members such as welcomed documentation for new students, a list of publications, tutorials, code, and other resources.
 
-## Contents
+## Overview
+- [Detailed List of Content](#detailed-list-of-content)
 - [Potential Usage](#potential-usage)
 - [Suggested Contribitons From Lab Members](#suggested-contribitons-from-lab-members)
 - [Other lab sites](#other-lab-sites)
-- [Detailed List of Content](#detailed-list-of-content)
+
+<br />
+
+# Detailed List of Content
+
+| Content | Author |
+| --------------- | --------------- |
+| [Cuda Performance Testing for Raster Analysis](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Cuda%20Performance%20Testing%20for%20Raster%20Analysis) | Lukas |
+| [HELIOS++ Workshop](https://www.winiwarter.dev/helios/) | Lukas |
+| [Robocopy File Backup Tutorial](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Robocopy) | Sarah |
+| [Point Cloud Deep Learning for Forest Data Tutorial](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Point%20Cloud%20Deep%20Learning) | Harry |
+| [NTEMS Clipping R Code](https://github.com/IRSS-UBC/ntems_clipping_terra) | Bud |
+| [Windows Subsystem for Linux Setup Tutorial](https://github.com/IRSS-UBC/WSL-tutorial) | Tommaso |
+| [LAStools in R Tutorial](https://github.com/IRSS-UBC/LAStools-tutorial) | Tristan Goodbody |
+| [Custom Raster Tiling Tutorial](https://github.com/IRSS-UBC/raster-tiling) | Chris Mulverhill |
+| [Stepwise Variable Selection For Lidar Metric Model](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Stepwise%20Variable%20Selection%20For%20Lidar%20Metric%20Model) | Harry |
 
 
 # Potential Usage
@@ -123,18 +139,3 @@ If you have limited git/github experience but stil want to contribute, send me y
 [Lab Twitter](https://twitter.com/IRSS_UBC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 [UBC IRSS Site](https://irsslab.forestry.ubc.ca/)
-
-<br />
-
-# Detailed List of Content
-
-| Content | Author |
-| --------------- | --------------- |
-| Cuda Performance Testing for Raster Analysis | Lukas |
-| HELIOS++ Workshop | Lukas |
-| Robocopy File Backup Tutorial | Sarah |
-| Point Cloud Deep Learning for Forest Data Tutorial | Harry |
-| NTEMS Clipping R Code | Bud |
-| Windows Subsystem for Linux Setup Tutorial | Tommaso |
-| LAStools in R Tutorial | Tristan Goodbody |
-| Custom Raster Tiling Tutorial | Chris Mulverhill |
