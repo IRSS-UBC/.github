@@ -18,15 +18,15 @@ This site also includes other useful information for lab members such as welcome
 
 | Content | Author |
 | --------------- | --------------- |
-| [Cuda Performance Testing for Raster Analysis](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Cuda%20Performance%20Testing%20for%20Raster%20Analysis) | Lukas |
-| [HELIOS++ Workshop](https://www.winiwarter.dev/helios/) | Lukas |
-| [Robocopy File Backup Tutorial](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Robocopy) | Sarah |
-| [Point Cloud Deep Learning for Forest Data Tutorial](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Point%20Cloud%20Deep%20Learning) | Harry |
-| [NTEMS Clipping R Code](https://github.com/IRSS-UBC/ntems_clipping_terra) | Bud |
-| [Windows Subsystem for Linux Setup Tutorial](https://github.com/IRSS-UBC/WSL-tutorial) | Tommaso |
+| [Cuda Performance Testing for Raster Analysis](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Cuda%20Performance%20Testing%20for%20Raster%20Analysis) | Lukas Winiwarter|
+| [HELIOS++ Workshop](https://www.winiwarter.dev/helios/) | Lukas Winiwarter|
+| [Robocopy File Backup Tutorial](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Robocopy) | Sarah Smith-Tripp|
+| [Point Cloud Deep Learning for Forest Data Tutorial](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Point%20Cloud%20Deep%20Learning) | Harry Seely|
+| [NTEMS Clipping R Code](https://github.com/IRSS-UBC/ntems_clipping_terra) | Bud (Evan Muise) |
+| [Windows Subsystem for Linux Setup Tutorial](https://github.com/IRSS-UBC/WSL-tutorial) | Tommaso Trotto|
 | [LAStools in R Tutorial](https://github.com/IRSS-UBC/LAStools-tutorial) | Tristan Goodbody |
 | [Custom Raster Tiling Tutorial](https://github.com/IRSS-UBC/raster-tiling) | Chris Mulverhill |
-| [Stepwise Variable Selection For Lidar Metric Model](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Stepwise%20Variable%20Selection%20For%20Lidar%20Metric%20Model) | Harry |
+| [Stepwise Variable Selection For Lidar Metric Model](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Stepwise%20Variable%20Selection%20For%20Lidar%20Metric%20Model) | Harry Seely|
 
 
 # Potential Usage
