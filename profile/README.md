@@ -27,7 +27,10 @@ This site also includes other useful information for lab members such as welcome
 | [LAStools in R Tutorial](https://github.com/IRSS-UBC/LAStools-tutorial) | Tristan Goodbody |
 | [Custom Raster Tiling Tutorial](https://github.com/IRSS-UBC/raster-tiling) | Chris Mulverhill |
 | [Stepwise Variable Selection For Lidar Metric Model](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Stepwise%20Variable%20Selection%20For%20Lidar%20Metric%20Model) | Harry Seely|
-| References Management with Notion + Zotero -> Notero (Coming Soon!) | Brent Murray |
+| [References Management with Notion and Zotero (Notero)](https://github.com/IRSS-UBC/NoteroLiteratureReview) | Brent Murray |
+| [IRSS 2023 Hackathon](https://github.com/IRSS-UBC/IRSS-Hackathon-2023) | Multiple Contributors |
+
+
 
  
 
