@@ -27,6 +27,9 @@ This site also includes other useful information for lab members such as welcome
 | [LAStools in R Tutorial](https://github.com/IRSS-UBC/LAStools-tutorial) | Tristan Goodbody |
 | [Custom Raster Tiling Tutorial](https://github.com/IRSS-UBC/raster-tiling) | Chris Mulverhill |
 | [Stepwise Variable Selection For Lidar Metric Model](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Stepwise%20Variable%20Selection%20For%20Lidar%20Metric%20Model) | Harry Seely|
+| References Management with Notion + Zotero -> Notero (Coming Soon!) | Brent Murray |
+
+ 
 
 
 # Potential Usage
@@ -139,5 +142,3 @@ If you have limited git/github experience but stil want to contribute, send me y
 [Lab Twitter](https://twitter.com/IRSS_UBC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 [UBC IRSS Site](https://irsslab.forestry.ubc.ca/)
-
-[Silva 21 Site](https://www.silva21.com/?lang=en)
