@@ -16,11 +16,13 @@ This site also includes other useful information for lab members such as welcome
 
 # Other lab sites
 
-[Amy's Blog](https://amywotherspoon.wixsite.com/amyw)
+[IRSS Welcome Doc](https://irss-ubc.github.io/irss-welcome/)
 
 [Lab Twitter](https://twitter.com/IRSS_UBC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 [UBC IRSS Site](https://irsslab.forestry.ubc.ca/)
+
+[Amy's Blog](https://amywotherspoon.wixsite.com/amyw)
 
 <br />
 
