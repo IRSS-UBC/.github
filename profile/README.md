@@ -94,25 +94,23 @@ This site also includes other useful information for lab members such as welcome
 
 4) Under "Change repository visibility", ensure the repo is public (this wont work with private repos)
 
-5) Click "Transfer" in the "Danger Zone" section
+5) On the repo main page clikc the "Fork" icon (top right)
+   
+6) Set the owner of the fork as IRSS-UBC, set the repo name to be shown on the org (or keep original name), add a description
+   
+8) Ensure that "Copy the main branch only" is ticked, and then select "Create fork"
 
-6) Under new owner, tick the option that says "Select one of my organizations" and set IRSS-UBC target. Provide a new name for the repo, or keep the old name. Confirm the transfer.
+9) Forking may take a minute. Once it is done, head over to IRSS-UBC org and locate your repo under "Repositories" at the bottom of the page.
 
-6) Transfering may take a minute. Once it is done, head over to IRSS-UBC org and locate your repo under "Repositories" at the bottom of the page.
-
-7) You should now [make a fork of this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) so you have a copy on your personal Github. This is done using the "Fork" button on the top of the repo screen. 
-
-8) After forking the repo, you now have a forked version of it on your personal github. 
-
-9) If you want to update your contribution to your IRSS-UBC org repo, you can do so by [creating a pull request from your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). After submitting the pull request on your personal guthub, head to the UBC-IRSS org version of the repo to accept the pull request. Now, the personal and org repos will match.
+10) You now have a forked version of your repo on the IRSS-UBC organisation site. Whenever you make changes to the repo on your github, you will need to sync these on the UBC-IRSS org repo. To sync changes, go to the repo on the IRSS-UBC org and select "Sync Fork" and then "Update Branch". 
 
 <br />
 
-***Note that if you want to remove your repo from the IRSS org, this can easily be done by going to settings on the repo and transfering it back to your Github personal account. Before transfering back, you need to delete the forked version of the repo if you have one.***
+***Note that if you want to remove your repo from the IRSS org, this can easily be done by going to settings on the repo and [deleting the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository) from the org, but ensure you are not deleting the repo on your own github site!***
 
 <br />
 
-For more detailed information about transfering repos see this [site](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository)
+**For more detailed information about transfering forking repos see this [site](https://docs.github.com/en/get-started/quickstart/fork-a-repo).**
 
 <br />
 
