@@ -7,10 +7,20 @@ This is a place where IRSS members can share code, tutorials, and any informatio
 This site also includes other useful information for lab members such as welcomed documentation for new students, a list of publications, tutorials, code, and other resources.
 
 ## Overview
+- [Other lab sites](#other-lab-sites)
 - [Detailed List of Content](#detailed-list-of-content)
 - [Potential Usage](#potential-usage)
 - [Suggested Contribitons From Lab Members](#suggested-contribitons-from-lab-members)
-- [Other lab sites](#other-lab-sites)
+
+<br />
+
+# Other lab sites
+
+[Amy's Blog](https://amywotherspoon.wixsite.com/amyw)
+
+[Lab Twitter](https://twitter.com/IRSS_UBC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+[UBC IRSS Site](https://irsslab.forestry.ubc.ca/)
 
 <br />
 
@@ -29,11 +39,10 @@ This site also includes other useful information for lab members such as welcome
 | [Stepwise Variable Selection For Lidar Metric Model](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Stepwise%20Variable%20Selection%20For%20Lidar%20Metric%20Model) | Harry Seely|
 | [References Management with Notion and Zotero (Notero)](https://github.com/IRSS-UBC/NoteroLiteratureReview) | Brent Murray |
 | [IRSS 2023 Hackathon](https://github.com/IRSS-UBC/IRSS-Hackathon-2023) | Multiple Contributors |
+| [NTEMS Clipping Python Code](https://github.com/IRSS-UBC/ntems_clipping_python) | Elaine Ye |
+| [Point Cloud Deep Learning For Tree Biomass](https://github.com/IRSS-UBC/Biomass-DL) | Harry Seely |
 
-
-
- 
-
+ <br />
 
 # Potential Usage
 
@@ -137,11 +146,3 @@ If you have limited git/github experience but stil want to contribute, send me y
 ### 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 <br />
-
-# Other lab sites
-
-[Amy's Blog](https://amywotherspoon.wixsite.com/amyw)
-
-[Lab Twitter](https://twitter.com/IRSS_UBC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-
-[UBC IRSS Site](https://irsslab.forestry.ubc.ca/)
