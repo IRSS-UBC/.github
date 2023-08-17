@@ -26,7 +26,7 @@ This site also includes other useful information for lab members such as welcome
 
 <br />
 
-# Detailed List of Content
+# List of Content
 
 | Content | Author |
 | --------------- | --------------- |
