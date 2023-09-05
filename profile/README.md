@@ -43,6 +43,8 @@ This site also includes other useful information for lab members such as welcome
 | [IRSS 2023 Hackathon](https://github.com/IRSS-UBC/IRSS-Hackathon-2023) | Multiple Contributors |
 | [NTEMS Clipping Python Code](https://github.com/IRSS-UBC/ntems_clipping_python) | Elaine Ye |
 | [Point Cloud Deep Learning For Tree Biomass](https://github.com/IRSS-UBC/Biomass-DL) | Harry Seely |
+| [Media Tools](https://github.com/IRSS-UBC/MediaTools) | Lukas Olson
+| [GEDI Tutorials](https://github.com/IRSS-UBC/GEDI_Workshop) | Atticus Stovall
 
  <br />
 
