@@ -48,7 +48,7 @@ This site also includes other useful information for lab members such as welcome
 | [Media Tools](https://github.com/IRSS-UBC/MediaTools) | Lukas Olson
 | [GEDI Tutorials](https://github.com/IRSS-UBC/GEDI_Workshop) | Atticus Stovall
 | [3PG-2](https://github.com/IRSS-UBC/3pg2) | Vaughan
-
+| [Bulk Download Satellite Imagery](https://github.com/IRSS-UBC/download_imagery) | Multiple Contributors
 
  <br />
 
