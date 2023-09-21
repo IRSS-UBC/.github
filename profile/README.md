@@ -1,5 +1,9 @@
 # IRSS Shared Github
 
+<div align="center">
+  <img src="irss_collage.png" alt="IRSS Collage" width="600"/>
+</div>
+
 ## Overview
 
 This is a place where IRSS members can share code, tutorials, and any information about their research. 
@@ -45,6 +49,8 @@ This site also includes other useful information for lab members such as welcome
 | [Point Cloud Deep Learning For Tree Biomass](https://github.com/IRSS-UBC/Biomass-DL) | Harry Seely |
 | [Media Tools](https://github.com/IRSS-UBC/MediaTools) | Lukas Olson
 | [GEDI Tutorials](https://github.com/IRSS-UBC/GEDI_Workshop) | Atticus Stovall
+| [3PG-2](https://github.com/IRSS-UBC/3pg2) | Vaughan
+
 
  <br />
 
