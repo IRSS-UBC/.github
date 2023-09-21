@@ -1,7 +1,7 @@
 # IRSS Shared Github
 
 <div align="center">
-  <img src="irss_collage.png" alt="IRSS Collage" width="400"/>
+  <img src="irss_collage.png" alt="IRSS Collage" width="500"/>
 </div>
 
 ## Overview
