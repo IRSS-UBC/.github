@@ -1,6 +1,6 @@
 # IRSS Shared Github
 
-![collage](./irss_collage.png)
+![collage](./profile/irss_collage.png)
 
 ## Overview
 
