@@ -50,6 +50,7 @@ This site also includes other useful information for lab members such as welcome
 | [3PG-2](https://github.com/IRSS-UBC/3pg2) | Vaughan
 | [Bulk Download Satellite Imagery](https://github.com/IRSS-UBC/download_imagery) | Multiple Contributors
 | [Parallelized lidR](https://github.com/IRSS-UBC/parallelized_lidR) | Harry Seely
+| [Silva21 R Package](https://github.com/IRSS-UBC/silvR21) | Michael Burnett
 
  <br />
 
