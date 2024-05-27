@@ -32,6 +32,7 @@ This site also includes other useful information for lab members such as welcome
 
 | Content | Author |
 | --------------- | --------------- |
+| [Random Name Picker - Python and R](https://github.com/Brent-Murray/name_picker) | Brent Murray
 | [Local Maxima Animated GIF Creation](https://github.com/liamirwin/ITD_Animator) | Liam Irwin
 | [Cuda Performance Testing for Raster Analysis](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Cuda%20Performance%20Testing%20for%20Raster%20Analysis) | Lukas Winiwarter|
 | [HELIOS++ Workshop](https://www.winiwarter.dev/helios/) | Lukas Winiwarter|
@@ -52,6 +53,8 @@ This site also includes other useful information for lab members such as welcome
 | [Bulk Download Satellite Imagery](https://github.com/IRSS-UBC/download_imagery) | Multiple Contributors
 | [Parallelized lidR](https://github.com/IRSS-UBC/parallelized_lidR) | Harry Seely
 | [Silva21 R Package](https://github.com/IRSS-UBC/silvR21) | Michael Burnett
+| [Exepy -- Python environment to EXE](https://github.com/IRSS-UBC/Exepy) | Lukas Olson
+| [Copernicus Download Tool](https://github.com/IRSS-UBC/CopernicusDownload) | Lukas Olson & Ramon Melser
 
  <br />
 
