@@ -55,6 +55,10 @@ This site also includes other useful information for lab members such as welcome
 | [Silva21 R Package](https://github.com/IRSS-UBC/silvR21) | Michael Burnett
 | [Exepy -- Python environment to EXE](https://github.com/IRSS-UBC/Exepy) | Lukas Olson
 | [Copernicus Download Tool](https://github.com/IRSS-UBC/CopernicusDownload) | Lukas Olson & Ramon Melser
+| [silva21 EFI prediction dashboard](https://github.com/IRSS-UBC/silva21-efi-web) | Joe Meyer 
+| [Useful stats resources](https://github.com/IRSS-UBC/UsefuelStats) | Jose Riofrio & Sarah Smith-Tripp|
+| [GDAL Quick Tricks](https://github.com/IRSS-UBC/GDAL_QuickTricks) |Sarah Smith-Tripp| 
+
 
  <br />
 
