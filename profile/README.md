@@ -24,6 +24,8 @@ This site also includes other useful information for lab members such as welcome
 
 [UBC IRSS Site](https://irsslab.forestry.ubc.ca/)
 
+[IRSS Papers](https://irss-ubc.github.io/irss_papers/)
+
 [Amy's Blog](https://amywotherspoon.wixsite.com/amyw)
 
 <br />
@@ -58,6 +60,7 @@ This site also includes other useful information for lab members such as welcome
 | [silva21 EFI prediction dashboard](https://github.com/IRSS-UBC/silva21-efi-web) | Joe Meyer 
 | [Useful stats resources](https://github.com/IRSS-UBC/UsefuelStats) | Jose Riofrio & Sarah Smith-Tripp|
 | [GDAL Quick Tricks](https://github.com/IRSS-UBC/GDAL_QuickTricks) |Sarah Smith-Tripp| 
+| [GDI+ parameter is not valid Fixer](https://github.com/lukasgolson/ImageResizerTool) |Lukas Olson|
 
 
  <br />
