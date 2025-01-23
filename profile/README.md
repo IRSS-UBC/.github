@@ -51,7 +51,7 @@ This site also includes other useful information for lab members such as welcome
 | [Point Cloud Deep Learning For Tree Biomass](https://github.com/IRSS-UBC/Biomass-DL) | Harry Seely |
 | [Media Tools](https://github.com/IRSS-UBC/MediaTools) | Lukas Olson
 | [GEDI Tutorials](https://github.com/IRSS-UBC/GEDI_Workshop) | Atticus Stovall
-| [3PG-2](https://github.com/IRSS-UBC/3pg2) | Vaughan
+| [3PG](https://github.com/IRSS-UBC/3pg2) | Sarah (Vaughan) Zwiep & Joe Meyer
 | [Bulk Download Satellite Imagery](https://github.com/IRSS-UBC/download_imagery) | Multiple Contributors
 | [Parallelized lidR](https://github.com/IRSS-UBC/parallelized_lidR) | Harry Seely
 | [Silva21 R Package](https://github.com/IRSS-UBC/silvR21) | Michael Burnett
