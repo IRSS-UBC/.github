@@ -34,6 +34,9 @@ This site also includes other useful information for lab members such as welcome
 
 | Content | Author |
 | --------------- | --------------- |
+https://github.com/ttrotto/rusterize
+
+| [Rusterize - Fast Rasterization with Rust](https://github.com/ttrotto/rusterize) | Tommaso Trotto
 | [Random Name Picker - Python and R](https://github.com/Brent-Murray/name_picker) | Brent Murray
 | [Local Maxima Animated GIF Creation](https://github.com/liamirwin/ITD_Animator) | Liam Irwin
 | [Cuda Performance Testing for Raster Analysis](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Cuda%20Performance%20Testing%20for%20Raster%20Analysis) | Lukas Winiwarter|
