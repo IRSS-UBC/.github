@@ -20,11 +20,13 @@ This site also includes other useful information for lab members such as welcome
 
 [IRSS Welcome Doc](https://irss-ubc.github.io/irss-welcome/)
 
-[Lab Twitter](https://twitter.com/IRSS_UBC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+[Lab Bluesky](https://bsky.app/profile/irssubc.bsky.social)
 
 [UBC IRSS Site](https://irsslab.forestry.ubc.ca/)
 
 [IRSS Papers](https://irss-ubc.github.io/irss_papers/)
+
+[IRSS AI Research](https://irss-ubc.github.io/irss-ai-publications.github.io/)
 
 [Amy's Blog](https://amywotherspoon.wixsite.com/amyw)
 
@@ -34,6 +36,8 @@ This site also includes other useful information for lab members such as welcome
 
 | Content | Author |
 | --------------- | --------------- |
+| [Network Shares](https://github.com/IRSS-UBC/NetworkShares/blob/main/README.md) | Brent Murray|
+| [Workstation Best Practices](https://github.com/IRSS-UBC/WorkstationBestPractices/blob/main/README.md) | Brent Murray|
 | [Rusterize - Fast Rasterization with Rust](https://github.com/ttrotto/rusterize) | Tommaso Trotto|
 | [Random Name Picker - Python and R](https://github.com/Brent-Murray/name_picker) | Brent Murray|
 | [Local Maxima Animated GIF Creation](https://github.com/liamirwin/ITD_Animator) | Liam Irwin|
@@ -62,6 +66,8 @@ This site also includes other useful information for lab members such as welcome
 | [Useful stats resources](https://github.com/IRSS-UBC/UsefuelStats) | Jose Riofrio & Sarah Smith-Tripp|
 | [GDAL Quick Tricks](https://github.com/IRSS-UBC/GDAL_QuickTricks) |Sarah Smith-Tripp| 
 | [GDI+ parameter is not valid Fixer](https://github.com/lukasgolson/ImageResizerTool) |Lukas Olson|
+| [Earthaccess collection batch downloader](https://github.com/IRSS-UBC/earthdata_downloader) |Ramon Melser|
+| [PlanetScope data acquisition and pre-processing](https://github.com/Spencer-Shields/planet-tools) | Spencer Shields|
 
 
  <br />
